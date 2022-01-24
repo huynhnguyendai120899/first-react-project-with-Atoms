@@ -6,6 +6,51 @@ body {
   height: 100%;
 }
 
+.mid-content {
+  font-family: Lucida Sans Unicode;
+  letter-spacing: .04px;
+  font-size: 13px;
+  text-align: center;
+  /* color: #fff; */
+
+}
+
+.card-img-center {
+  margin-left: 40%;
+  margin-top: 3% !important;
+  height: 20%;
+  width: 20% !important;
+}
+
+.footer-button {
+  margin-top: 20%;
+  color: #fff;
+  font-family: Lucida Sans Unicode;
+  text-decoration: none;
+}
+
+.group-foot-button {
+  margin-top: 20%;
+}
+
+.mid-content.card {
+  background-color: transparent;
+}
+
+.card-title {
+  font-weight: 900 !important;
+  font-family: Lucida Sans Unicode;
+  letter-spacing: .01em;
+  margin: 6% !important;
+}
+
+.content {
+  margin-top: 5%;
+  margin-left: 25%;
+  width: 50%;
+  margin-bottom: 2%;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
